@@ -1,0 +1,5 @@
+#lang racket
+
+(define place "world")
+
+(print "hello" place)
